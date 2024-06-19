@@ -42,6 +42,10 @@ The prediction model is built using the **GradientBoostingClassifier** and train
 - This app is for informational purposes only and should not be used as a substitute for professional medical advice.
 - The data used to train the model may not be completely representative of the entire population.
 
+---
+
+# GitHub User Analytics and Recommendation
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
