@@ -1,5 +1,5 @@
-# Vaccine Usage Prediction & GitHub User Analytics and Recommendation
-This repository contains both Vaccine Usage Prediction project and GitHub User Analytics Recommendation project
+# Vaccine Usage Prediction & Zomato Data Analysis And Visualization
+This repository contains both Vaccine Usage Prediction project and Zomato Data Analysis And Visualization project
 
 # H1N1 Vaccine Prediction App
 
@@ -44,7 +44,7 @@ The prediction model is built using the **GradientBoostingClassifier** and train
 
 ---
 
-# GitHub User Analytics and Recommendation
+# Zomato Data Analysis And Visualization
 
 ## License
 
